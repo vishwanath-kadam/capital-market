@@ -95,3 +95,35 @@ A **swap** is a private agreement between two parties to exchange sequences of c
 
 Swaps are versatile financial agreements that enable parties to exchange cash flows linked to various underlying factors. They are vital tools for risk management, financial engineering, and strategic investment management in global markets.
 
+---------------------------------
+
+Forwards in finance are customized, over-the-counter (OTC) contracts between two parties to buy or sell an asset at a predetermined price on a future date. Unlike standardized futures contracts traded on exchanges, forwards are tailored agreements that cater to the specific needs of the involved parties.
+
+**Key Features of Forwards:**
+- **Customization:** Agreements are negotiated directly between parties to specify the asset, quantity, delivery date, and price.
+- **Settlement:** The delivery and payment occur at the agreed future date.
+- **Counterparty Risk:** Since forwards are OTC, there's a risk that one party may default on the contract.
+- **No Initial Payment:** Typically, no upfront premium is paid at contract initiation.
+
+**Common Types of Forwards:**
+- **Currency Forward:** Agree to exchange a certain amount of one currency for another at a future date, at a fixed rate.
+- **Commodity Forward:** Commit to buy or sell a commodity (like oil, gold, or agricultural products) in the future.
+- **Interest Rate Forward:** Agreement to borrow or lend at a fixed interest rate at a future date.
+
+**Uses of Forwards:**
+- **Hedging:** Companies use forwards to lock in prices and protect against price or exchange rate fluctuations.
+- **Speculation:** Traders attempt to profit from anticipated price movements in the underlying asset.
+- **Arbitrage:** Exploiting price differences between markets or instruments.
+
+**Advantages:**
+- Fully customizable to meet specific needs.
+- Useful for hedging against price or exchange rate risk.
+
+**Disadvantages:**
+- Counterparty risk due to the lack of a centralized clearinghouse.
+- Less liquidity compared to standardized futures contracts.
+
+### Summary:
+Forwards are flexible, personalized contracts that allow entities to lock in prices for assets or currencies at a future date, serving as crucial tools for hedging and risk management in financial markets.
+
+---------------------------------
