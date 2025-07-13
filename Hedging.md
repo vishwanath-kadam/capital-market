@@ -96,6 +96,37 @@ A **swap** is a private agreement between two parties to exchange sequences of c
 Swaps are versatile financial agreements that enable parties to exchange cash flows linked to various underlying factors. They are vital tools for risk management, financial engineering, and strategic investment management in global markets.
 
 ---------------------------------
+Futures in finance are standardized, exchange-traded contracts that obligate the buyer to purchase, and the seller to sell, a specific quantity of an asset at a predetermined price on a future date. Unlike forwards, futures contracts are traded on formal exchanges, which provide standardized terms and reduce counterparty risk through clearinghouses.
+
+**Key Features of Futures:**
+- **Standardization:** Contract terms such as quantity, quality, and delivery date are standardized by the exchange.
+- **Exchange-Traded:** Barred through organized exchanges like the CME, NYSE, or ICE.
+- **Margin Requirement:** Both parties deposit an initial margin to ensure performance, with daily settlement (mark-to-market) to adjust for gains or losses.
+- **Settlement:** Can be settled in cash or through physical delivery of the underlying asset at expiration.
+
+**Uses of Futures:**
+- **Hedging:** Producers, consumers, and investors use futures to protect against price fluctuations of commodities, currencies, or financial instruments.
+- **Speculation:** Traders seek to profit from anticipated price movements by taking long (buy) or short (sell) positions.
+- **Arbitrage:** Exploiting price differences between futures and spot markets to generate risk-free profits.
+
+**Examples of Underlying Assets:**
+- Commodities such as oil, gold, agricultural products
+- Financial instruments such as stock indices, interest rates, currencies
+
+**Advantages:**
+- Liquidity and ease of trading due to exchange presence
+- Reduced counterparty risk
+- Standardized contracts facilitate transferability and hedging
+
+**Disadvantages:**
+- Potential for significant losses if market moves unfavorably
+- Requires understanding of complex trading strategies
+- Margin calls can force traders to post additional funds
+
+### Summary:
+Futures are standardized, traded-on-exchange contracts that enable market participants to hedge price risks or speculate on future price movements of various assets efficiently and transparently. They are vital tools in risk management, trading, and investment strategies across global financial markets.
+
+---------------------------------
 
 Forwards in finance are customized, over-the-counter (OTC) contracts between two parties to buy or sell an asset at a predetermined price on a future date. Unlike standardized futures contracts traded on exchanges, forwards are tailored agreements that cater to the specific needs of the involved parties.
 
